@@ -1,0 +1,4 @@
+module InstakillC {
+    umbrella "."
+    export *
+}
