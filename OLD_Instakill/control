@@ -1,0 +1,10 @@
+Package: com.now.instakill
+Name: Instakill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Orion tweak!
+Maintainer: NoW
+Author: NoW
+Section: Tweaks
+Depends: firmware (>= 12.2)
+#Depends: ${ORION}, firmware (>= 12.2)
